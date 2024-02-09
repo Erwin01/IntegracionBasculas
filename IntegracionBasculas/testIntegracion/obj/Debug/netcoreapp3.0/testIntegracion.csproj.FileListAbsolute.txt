@@ -1,0 +1,48 @@
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.exe
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.deps.json
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.runtimeconfig.json
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.runtimeconfig.dev.json
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.pdb
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\Integracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\Integracion.pdb
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.csprojAssemblyReference.cache
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.AssemblyInfoInputs.cache
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.AssemblyInfo.cs
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.csproj.CopyComplete
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.pdb
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\DibalImage.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.exe
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.deps.json
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.runtimeconfig.json
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.runtimeconfig.dev.json
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\testIntegracion.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\Integracion.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\bin\Debug\netcoreapp3.0\Integracion.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.csproj.AssemblyReference.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.AssemblyInfoInputs.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.AssemblyInfo.cs
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.csproj.CoreCompileInputs.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.csproj.CopyComplete
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\testIntegracion\obj\Debug\netcoreapp3.0\testIntegracion.genruntimeconfig.cache
