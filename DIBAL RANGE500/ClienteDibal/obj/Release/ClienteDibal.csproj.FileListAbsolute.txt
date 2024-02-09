@@ -1,0 +1,12 @@
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\ClienteDibal.exe.config
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\ClienteDibal.exe
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\ClienteDibal.pdb
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\obj\Release\ClienteDibal.csprojAssemblyReference.cache
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\obj\Release\ClienteDibal.exe
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\obj\Release\ClienteDibal.pdb
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\DibalImage.dll
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\obj\Release\ClienteDibal.csproj.CopyComplete
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\DibalscopDemo.exe
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\DibalscopDemo.pdb
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\es\DibalscopDemo.resources.dll
+C:\Users\pcc\Desktop\DibalSDK_V1.0.1.20\DibalscopDemoC#\ClienteDibal\bin\Release\zh-CHS\DibalscopDemo.resources.dll
