@@ -1,0 +1,18 @@
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\bin\Debug\ConsolaNet.exe.config
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\bin\Debug\ConsolaNet.exe
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\bin\Debug\ConsolaNet.pdb
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\bin\Debug\BalanzaNet.dll
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\bin\Debug\BalanzaNet.pdb
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\obj\Debug\ConsolaNet.csprojAssemblyReference.cache
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\obj\Debug\ConsolaNet.csproj.CopyComplete
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\obj\Debug\ConsolaNet.exe
+C:\Users\pcc\Desktop\Balanzas\ConsolaNet\obj\Debug\ConsolaNet.pdb
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\bin\Debug\ConsolaNet.exe.config
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\bin\Debug\ConsolaNet.exe
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\bin\Debug\ConsolaNet.pdb
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\bin\Debug\BalanzaNet.dll
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\bin\Debug\BalanzaNet.pdb
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\obj\Debug\ConsolaNet.csprojAssemblyReference.cache
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\obj\Debug\ConsolaNet.csproj.CopyComplete
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\obj\Debug\ConsolaNet.exe
+C:\Users\pcc\Desktop\Balanzas EVO\ConsolaNet\obj\Debug\ConsolaNet.pdb

@@ -1,0 +1,13 @@
+C:\Users\pcc\Desktop\Balanzas\BalanzaNet\bin\Debug\BalanzaNet.dll
+C:\Users\pcc\Desktop\Balanzas\BalanzaNet\bin\Debug\BalanzaNet.pdb
+C:\Users\pcc\Desktop\Balanzas\BalanzaNet\obj\Debug\Interop.EpelDLL.dll
+C:\Users\pcc\Desktop\Balanzas\BalanzaNet\obj\Debug\BalanzaNet.csproj.ResolveComReference.cache
+C:\Users\pcc\Desktop\Balanzas\BalanzaNet\obj\Debug\BalanzaNet.dll
+C:\Users\pcc\Desktop\Balanzas\BalanzaNet\obj\Debug\BalanzaNet.pdb
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\bin\Debug\BalanzaNet.dll
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\bin\Debug\BalanzaNet.pdb
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\obj\Debug\Interop.EpelDLL.dll
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\obj\Debug\BalanzaNet.csproj.ResolveComReference.cache
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\obj\Debug\BalanzaNet.dll
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\obj\Debug\BalanzaNet.pdb
+C:\Users\pcc\Desktop\Balanzas EVO\BalanzaNet\obj\Debug\BalanzaNet.csprojAssemblyReference.cache
