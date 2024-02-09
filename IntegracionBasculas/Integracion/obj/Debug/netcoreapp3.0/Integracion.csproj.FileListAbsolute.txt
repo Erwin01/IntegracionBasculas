@@ -1,0 +1,17 @@
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Debug\netcoreapp3.0\Integracion.deps.json
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Debug\netcoreapp3.0\Integracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Debug\netcoreapp3.0\Integracion.pdb
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.AssemblyInfoInputs.cache
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.AssemblyInfo.cs
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.pdb
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.csprojAssemblyReference.cache
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Debug\netcoreapp3.0\DibalImage.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.csproj.CopyComplete
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.csproj.AssemblyReference.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.AssemblyInfoInputs.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.AssemblyInfo.cs
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.csproj.CoreCompileInputs.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Debug\netcoreapp3.0\Integracion.pdb

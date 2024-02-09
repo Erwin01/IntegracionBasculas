@@ -1,0 +1,46 @@
+﻿/// <summary>
+	/// Autor            : Erwin Parales
+	/// Fecha de Creación: 11-Nov/2019
+	/// Descripción      : Este documento es el paso a paso de conexión específico de una báscula Dibal 500 y un PC.
+/// </summary>
+
+------------- Configuración Balanza Mistral SW-500 a PC o Máquina Local-------------
+
+1- Ingresar a la URL: www.iberotecsas.com, buscar el manual de usuario y el software a instalar.
+
+2- Leer el manual de instalación y seguir los pasos, después de leer el manual instalar el software en la máquina local.
+
+3- Configuración de la Bascúla a PC:
+	*Crear una red IP fija en el equipo de Windows.
+	*Configurar la IP de acuerdo a los datos que desee ingresar.
+	*conecte el cable de red RJ45 a la báscula y al puerto de PC.
+	*Encienda la Báscula, ejecute el programa DFS de la báscula, ingrese el usuario y password.
+
+4- Configuración de la báscula con Puerto Ethernet
+	*Para acceder a la configuración puerto Ethernet, presionar botón [MENÚ-ESC] sostenido por unos segundos, luego presionar el botón [5].
+	*Aparece la opción |PARAM COM ETH| y presionar el botón [1].
+	*Aparece la opción |DIR IP BALANZA| ahí ingresamos la IP que se asigne por el usuario, para este ejemplo el equipo es: 192.168.001.253 una vez ingresada la IP presionamos el botón [*]. Regresa a la opción anterior y presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |DIR IP PC| ahí ingresamos la IP que se asignó en la IP fija de Windows. Para este ejemplo es: 192.168.001.253 una vez ingresada la IP presionamos el botón [*]. Regresa a la opción menú anterior y presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |NUMERO DE EQUIPO| ahí ingresamos el numero de equipo, para este ejemplo: Cero(0). Una vez ingresado el valor presionamos el botón [*]. Regresa a la opción menú anterior y presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |PUERTO TX| ahí depende la configuración, en este caso por ser primera vez se coloca 3001 mil uno, si se agregan mas básculas nuevas se coloca el consecutivo 3002 mil dos,3003 mil tres, 3004 mil cuatro... n veces y así sucesivamente. Presionamos el botón [*]. Regresa a la opción menú anterior y presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |PUERTO RX| ahí ingresamos o dejamos por defecto el mismo valor, para este ejemplo el valor es 3000 mil. presionamos el botón [*]. Regresa a la opción menú anteriory presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |DIRECCION MAC| aparece el mensaje PASSWORD, este no se cambia, de deja igual como está. Presionamos el botón [MENU-ESC]. Regresa a la opción menú anterior y presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |MASCARA DE SUBRED| ahí ingresamos la dirección puerta enlace de red que creamos en la IP fija de Winodws, en este caso es 172.050.000.001(172.50.0.1). Presionamos el botón [*]. Regresa a la opción menú anterior y presionamos el botón [f2] para ir al siguiente paso.
+	*Aparece la opción |DIR GATEWAY| ahí ingresamos la dirección puerta enlace de red que creamos en la IP fija de Winodws, en este caso es 192.168.001.254(172.50.0.1). Presionamos el botón [*]. Presionamos el botón [Menú-Esc] varias veces para salir de la configuración, con esto finalizamos la configuracion de la báscula.
+
+
+---------- Configuración Balanza Mistral SW-500 a PC desde Software DFS-DIBAL V.141D-------------
+	
+1- En la parte derecha del programa aparece la opción |DATOS EMPRESA| ahí seleccionamos la IP PC que esta cargando al conectar el cable de red a la báscula.
+
+2- En la parte derecha del  programa aparece la opción |DATOS TIENDA| ahí debemos de colocar algunos de los datos ingresados anteriormente ingresados en la báscula.
+	*En la celda |NOMBRE| ingresamos el nombre que el usuario desee.
+	*En la celda |DIR MAESTRA| ingresamos el valor de Cero(00) en este caso se deja igual.
+	*En la celda |PUERTO TX| ingresamos el valor de 3001 mil uno, en este caso por ser primera vez se coloca 3001 mil uno, si se agregan mas básculas nuevas se coloca el consecutivo 3002 mil dos,3003 mil tres, 3004 mil cuatro... n veces y así sucesivamente.
+	*En la celda |PUERTO RX| ingresamos el puerto por defecto el mismo valor de la configuración de la báscula 3000 mil.
+	
+3- Para finalizar la configuración del equipo, buscamos un icono de casa que esta desmarcado. Debajo de ésta aparece una balanza y esta en color Rojo, para activarla, dar clic en ella y se activará en color VERDE. 
+   Con esto finaliza la configuración completa de la balanza y el equipo ó máquina local.
+
+
+

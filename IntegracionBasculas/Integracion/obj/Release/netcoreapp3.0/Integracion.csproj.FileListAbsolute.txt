@@ -1,0 +1,8 @@
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Release\netcoreapp3.0\Integracion.deps.json
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Release\netcoreapp3.0\Integracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\bin\Release\netcoreapp3.0\Integracion.pdb
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Release\netcoreapp3.0\Integracion.csprojAssemblyReference.cache
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Release\netcoreapp3.0\Integracion.AssemblyInfoInputs.cache
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Release\netcoreapp3.0\Integracion.AssemblyInfo.cs
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Release\netcoreapp3.0\Integracion.dll
+C:\Users\pcc\Downloads\IntegracionBasculas\IntegracionBasculas\Integracion\obj\Release\netcoreapp3.0\Integracion.pdb
