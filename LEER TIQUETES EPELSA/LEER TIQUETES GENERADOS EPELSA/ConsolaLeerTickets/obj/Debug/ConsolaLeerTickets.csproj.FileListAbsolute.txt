@@ -1,0 +1,12 @@
+C:\Users\pcc\source\repos\ConsolaLeerTickets\ConsolaLeerTickets\obj\Debug\ConsolaLeerTickets.csprojAssemblyReference.cache
+C:\Users\pcc\source\repos\ConsolaLeerTickets\ConsolaLeerTickets\bin\Debug\ConsolaLeerTickets.exe.config
+C:\Users\pcc\source\repos\ConsolaLeerTickets\ConsolaLeerTickets\bin\Debug\ConsolaLeerTickets.exe
+C:\Users\pcc\source\repos\ConsolaLeerTickets\ConsolaLeerTickets\bin\Debug\ConsolaLeerTickets.pdb
+C:\Users\pcc\source\repos\ConsolaLeerTickets\ConsolaLeerTickets\obj\Debug\ConsolaLeerTickets.exe
+C:\Users\pcc\source\repos\ConsolaLeerTickets\ConsolaLeerTickets\obj\Debug\ConsolaLeerTickets.pdb
+C:\Users\pcc\Desktop\ConsolaLeerTickets\ConsolaLeerTickets\bin\Debug\ConsolaLeerTickets.exe.config
+C:\Users\pcc\Desktop\ConsolaLeerTickets\ConsolaLeerTickets\bin\Debug\ConsolaLeerTickets.exe
+C:\Users\pcc\Desktop\ConsolaLeerTickets\ConsolaLeerTickets\bin\Debug\ConsolaLeerTickets.pdb
+C:\Users\pcc\Desktop\ConsolaLeerTickets\ConsolaLeerTickets\obj\Debug\ConsolaLeerTickets.csprojAssemblyReference.cache
+C:\Users\pcc\Desktop\ConsolaLeerTickets\ConsolaLeerTickets\obj\Debug\ConsolaLeerTickets.exe
+C:\Users\pcc\Desktop\ConsolaLeerTickets\ConsolaLeerTickets\obj\Debug\ConsolaLeerTickets.pdb
